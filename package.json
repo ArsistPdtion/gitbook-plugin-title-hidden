@@ -5,10 +5,10 @@
   "engines": {
     "gitbook": "*"
   },
-  "homepage": "https://www.example.com",
+  "homepage": "https://github.com/ArsistPdtion/gitbook-plugin-title-hidden",
   "repository": {
     "type": "git",
-    "url": "https://www.example.com"
+    "url": "https://github.com/ArsistPdtion/gitbook-plugin-title-hidden.git"
   },
   "license": "Apache 2",
   "author": "tanglong<andy.t.dbm@gmail.com>"
