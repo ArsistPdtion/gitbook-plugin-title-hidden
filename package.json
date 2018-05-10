@@ -1,0 +1,17 @@
+{
+  "name": "gitbook-plugin-title-hidden",
+  "version": "0.0.1",
+  "description": "This is my first GitBook plugin",
+  "engines": {
+    "gitbook": "*"
+  },
+  "homepage": "https://www.example.com",
+  "repository": {
+    "type": "git",
+    "url": "https://www.example.com"
+  },
+  "license": "Apache 2",
+  "author": "tanglong<andy.t.dbm@gmail.com>"
+}
+
+
